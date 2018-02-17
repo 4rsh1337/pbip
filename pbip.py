@@ -1,4 +1,4 @@
 import urllib
 a=urllib.urlopen("http://ipecho.net/plain")
 ip=a.read()
-print "your public ip address is: ",ip
+print "(By 4rSh_d0rk)your public ip address is: ",ip
